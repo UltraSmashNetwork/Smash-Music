@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'MTA3MzkxMjc5ODEwMDMzMjU2NA.G688mZ.RSCN1o7veohBVUlucFHuB6KBRTmP4SOeApcQ0M',
+        token: 'YOUR-BOT-TOKEN',
         playing: 'Smash Music Testing',
         global: true,
-        guild: '1005733828104552448' 
+        guild: 'YOUR-GUILD-ID' 
     },
 
     opt: {
